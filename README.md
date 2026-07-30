@@ -32,6 +32,7 @@
 | [0014-longest-common-prefix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/tejveer712/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -39,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
