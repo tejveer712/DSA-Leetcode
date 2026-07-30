@@ -28,6 +28,7 @@
 | [0275-h-index-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/tejveer712/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/tejveer712/DSA-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -161,6 +162,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/tejveer712/DSA-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
