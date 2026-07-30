@@ -38,6 +38,7 @@
 | [0205-isomorphic-strings](https://github.com/tejveer712/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tejveer712/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
