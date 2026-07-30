@@ -61,6 +61,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejveer712/DSA-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/tejveer712/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejveer712/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -120,6 +121,7 @@
 | [0013-roman-to-integer](https://github.com/tejveer712/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tejveer712/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejveer712/DSA-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1903-largest-odd-number-in-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
