@@ -49,6 +49,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejveer712/DSA-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/tejveer712/DSA-Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/tejveer712/DSA-Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
 |  |
 | ------- |
@@ -226,4 +228,13 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tejveer712/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
