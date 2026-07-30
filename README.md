@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tejveer712/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tejveer712/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tejveer712/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/tejveer712/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
