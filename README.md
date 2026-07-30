@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/tejveer712/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/tejveer712/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tejveer712/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0054-spiral-matrix) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/tejveer712/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
