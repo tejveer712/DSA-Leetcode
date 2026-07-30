@@ -1,0 +1,29 @@
+class Solution {
+    public int searchInsert(int[] nums, int target) {
+        int low = 0;
+        int high = nums.length - 1;
+
+        while (low <= high) {
+
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] == target) {
+                return mid;
+            }
+
+            if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+
+        // Target not found.
+        // low is the correct insertion index.
+        return low;
+    }
+}
+
+
+// Loop ended because low > high.
+// low is the first position where target can be inserted.
