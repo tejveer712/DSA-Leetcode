@@ -22,6 +22,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/tejveer712/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/tejveer712/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -150,6 +152,7 @@
 | [0054-spiral-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -163,4 +166,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejveer712/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
