@@ -39,6 +39,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejveer712/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/tejveer712/DSA-Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/tejveer712/DSA-Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejveer712/DSA-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1903-largest-odd-number-in-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/tejveer712/DSA-Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
