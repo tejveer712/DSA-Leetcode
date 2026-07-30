@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/tejveer712/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/tejveer712/DSA-Leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/tejveer712/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/tejveer712/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tejveer712/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/tejveer712/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tejveer712/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejveer712/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
