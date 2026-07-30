@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/tejveer712/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tejveer712/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/tejveer712/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tejveer712/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -145,6 +146,7 @@
 | [0009-palindrome-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tejveer712/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tejveer712/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/tejveer712/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/tejveer712/DSA-Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
