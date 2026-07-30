@@ -21,6 +21,7 @@
 | [0162-find-peak-element](https://github.com/tejveer712/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/tejveer712/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
@@ -44,6 +45,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/tejveer712/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
