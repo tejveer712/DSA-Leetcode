@@ -41,6 +41,7 @@
 | [0141-linked-list-cycle](https://github.com/tejveer712/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -82,6 +83,7 @@
 | [0013-roman-to-integer](https://github.com/tejveer712/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tejveer712/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejveer712/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0796-rotate-string) |
