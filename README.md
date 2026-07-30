@@ -84,6 +84,7 @@
 | [0020-valid-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/tejveer712/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejveer712/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
