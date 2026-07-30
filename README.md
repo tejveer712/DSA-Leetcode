@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/tejveer712/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/tejveer712/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tejveer712/DSA-Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/tejveer712/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/tejveer712/DSA-Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
