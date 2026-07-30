@@ -28,10 +28,12 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
