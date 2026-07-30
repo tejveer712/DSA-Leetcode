@@ -53,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
