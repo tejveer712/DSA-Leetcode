@@ -42,6 +42,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejveer712/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejveer712/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tejveer712/DSA-Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tejveer712/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejveer712/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -175,6 +176,7 @@
 | [0118-pascals-triangle](https://github.com/tejveer712/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejveer712/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/tejveer712/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tejveer712/DSA-Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Greedy
 |  |
 | ------- |
