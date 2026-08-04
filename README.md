@@ -36,6 +36,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tejveer712/DSA-Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/tejveer712/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/tejveer712/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -140,6 +141,7 @@
 | [0205-isomorphic-strings](https://github.com/tejveer712/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejveer712/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
+| [0525-contiguous-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tejveer712/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tejveer712/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
