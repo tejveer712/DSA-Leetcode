@@ -43,6 +43,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejveer712/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejveer712/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejveer712/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tejveer712/DSA-Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tejveer712/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -140,6 +141,7 @@
 | [0242-valid-anagram](https://github.com/tejveer712/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Linked List
@@ -237,6 +239,7 @@
 | [0238-product-of-array-except-self](https://github.com/tejveer712/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tejveer712/DSA-Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
