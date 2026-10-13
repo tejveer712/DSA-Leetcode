@@ -26,6 +26,7 @@
 | [0152-maximum-product-subarray](https://github.com/tejveer712/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tejveer712/DSA-Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejveer712/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tejveer712/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/tejveer712/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejveer712/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tejveer712/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -88,6 +90,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tejveer712/DSA-Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejveer712/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/tejveer712/DSA-Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
