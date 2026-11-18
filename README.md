@@ -54,6 +54,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/tejveer712/DSA-Leetcode/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/tejveer712/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejveer712/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/tejveer712/DSA-Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tejveer712/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -111,6 +112,7 @@
 | [0704-binary-search](https://github.com/tejveer712/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejveer712/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/tejveer712/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tejveer712/DSA-Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tejveer712/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tejveer712/DSA-Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -269,6 +271,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tejveer712/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/tejveer712/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
@@ -277,6 +280,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tejveer712/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejveer712/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/tejveer712/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/tejveer712/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
