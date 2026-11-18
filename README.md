@@ -49,6 +49,7 @@
 | [0724-find-pivot-index](https://github.com/tejveer712/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tejveer712/DSA-Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/tejveer712/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tejveer712/DSA-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,6 +160,7 @@
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/tejveer712/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tejveer712/DSA-Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tejveer712/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/tejveer712/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
