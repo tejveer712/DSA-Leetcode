@@ -133,6 +133,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tejveer712/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejveer712/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejveer712/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/tejveer712/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tejveer712/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -159,6 +160,7 @@
 | [0202-happy-number](https://github.com/tejveer712/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tejveer712/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejveer712/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejveer712/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/tejveer712/DSA-Leetcode/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/tejveer712/DSA-Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tejveer712/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -273,6 +275,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejveer712/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tejveer712/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejveer712/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/tejveer712/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/tejveer712/DSA-Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
